@@ -51,6 +51,19 @@
     + Downloads info from remote, but does not merge with local.
 - git show:
     + Shows the contents of a single commit.
+ 
+## Additional git commands from the scrypt
+
+-git diff:
+    + Shows changes to files that have not yet been added with "git add".
+-git add -u:
+    + "-u" means "update". It only updates files that Git already tracks, meaning those previously added to the repository.  
+    It takes into account changes to these files and deleted files, but does not add new files.  
+    (In comparison "git add" adds a file to staging even if it is new.)
+-git commit --amend -m "comment":
+    + The --amend flag alows to change previosly wrongly typed comment.
+-git log:
+    + Shows all the comits.
 
 ## Basic bash commands
 
