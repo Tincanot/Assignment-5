@@ -10,8 +10,14 @@
 **"Git is a version-control tool that tracks changes made to the files and directories in a project."**  
 
 ## Basic Git commands
-- git clone: Clones a remote repository to your local machine.
-- git init: Initialize repository.
+- git clone:
+    Clones a remote repository to your local machine.
+    (Downloads the full project history to allow working locally.)
+    + example:
+        `git clone git@github.com:Tincanot/Assignment-5.git`
+- git init:
+    Initialize repository
+    (
 - git status: Shows modified and staged files.
 - git add: Select files that will be committed.
 - git commit: Creates a "snapshot" of your files.
