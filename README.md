@@ -43,7 +43,7 @@
 - git merge:
     + Merges content of different branches.  
       (Allows combining changes from different branches into one.)
-    + example: `git merge name_of_the_other_branch`
+    + example: `git merge name_of_the_other_branch`  
       (name_of_the_other_branch – the branch intended to be merged into the "current branch".)
 - git pull:
     + Downloads from remote and merges with local.
