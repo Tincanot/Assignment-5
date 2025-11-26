@@ -61,6 +61,21 @@
 - cp:
   + copy
 - nano:
-  + command line text editor 
+  + command line text editor
+
+## Adding a README
+
+The code:  
+
+`git clone <URL of the repository>
+cd <name of the repository>
+touch README.md`
+For adding the contest:
+`nano README.md`
+Adding the README to Github:
+` git add README.md
+git commit -m "Add the README"
+git push`
+
 
 
