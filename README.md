@@ -1,6 +1,6 @@
 # GIT ASSIGNMENT #5
 
-**Name:** Natalia  
+**Name:** Natalia C.  
 **Date:** 20/11/2025  
 **Course:** Basic Toolkit for Bioinformatics Research, Exercises  
 **Group number:** 1  
