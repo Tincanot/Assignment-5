@@ -52,7 +52,15 @@
 - git show:
     + Shows the contents of a single commit.
 
+## Basic bash commands
 
-
+- cd:
+  + change directory
+- mv:
+  + move
+- cp:
+  + copy
+- nano:
+  + command line text editor 
 
 
