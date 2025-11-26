@@ -19,7 +19,7 @@
     + Initializes repository  
       (Creates a new, empty, local repository)
 - git status:  
-      + Shows modified and staged files.  
+    + Shows modified and staged files.  
         (Checks the current state of the repository. Shows which files have been modified, which are ready for commit, and which aren't tracked by Git.)
 - git add:  
       + Select files that will be committed.  
