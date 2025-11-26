@@ -10,7 +10,7 @@
 **"Git is a version-control tool that tracks changes made to the files and directories in a project."**  
 
 ## Basic Git commands
-- git clone:
+- git clone:  
     Clones a remote repository to your local machine.  
     (Downloads the full project history to allow working locally.)
     + example:
