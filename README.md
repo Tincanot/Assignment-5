@@ -11,8 +11,8 @@
 
 ## Basic Git commands
 - git clone:  
-    +Clones a remote repository to your local machine.  
-    (Downloads the full project history to allow working locally.)
+    + Clones a remote repository to your local machine.
+      (Downloads the full project history to allow working locally.)
     + example:
         `git clone git@github.com:Tincanot/Assignment-5.git`
 - git init:
